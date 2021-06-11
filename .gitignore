@@ -39,3 +39,7 @@ results/._VMDvsFAST.docx
 results/Procedure.docx
 results/p.xlsx
 results/MetricTable.xlsx
+notebooks/.ipynb_checkpoints/Data_Prep-checkpoint.ipynb
+notebooks/.ipynb_checkpoints/TFIDF_VMD_Hyptertune-2-checkpoint.ipynb
+notebooks/.ipynb_checkpoints/TFIDF_VMD_TEST-checkpoint.ipynb
+notebooks/.ipynb_checkpoints/VMD_Embed-checkpoint.ipynb
