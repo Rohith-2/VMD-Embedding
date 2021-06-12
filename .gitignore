@@ -48,3 +48,6 @@ notebooks/.ipynb_checkpoints/._VMD_Embed-checkpoint.ipynb
 notebooks/._VMD_Embed.py
 notebooks/.ipynb_checkpoints/IMdb-checkpoint.ipynb
 notebooks/__pycache__/VMD_Embed.cpython-39.pyc
+notebooks/.ipynb_checkpoints/TSME-checkpoint.ipynb
+notebooks/.ipynb_checkpoints/Glove-Twitter_VMD-checkpoint.ipynb
+data/cc.en.300.bin
