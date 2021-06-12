@@ -51,3 +51,4 @@ notebooks/__pycache__/VMD_Embed.cpython-39.pyc
 notebooks/.ipynb_checkpoints/TSME-checkpoint.ipynb
 notebooks/.ipynb_checkpoints/Glove-Twitter_VMD-checkpoint.ipynb
 data/cc.en.300.bin
+notebooks/ScratchPad/._TFIDF_VMD_Hyptertune.ipynb
