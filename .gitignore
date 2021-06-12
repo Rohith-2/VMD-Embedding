@@ -29,8 +29,6 @@ data/._Hyper.csv
 ._TFIDF_VMD_Hyptertune.py
 ._.ipynb_checkpoints
 ._.DS_Store
-*.csv
-*.tsv
 notebooks/._TFIDF_VMD_Hyptertune.ipynb
 results/._MetricTable.xlsx
 results/._p.xlsx
@@ -56,3 +54,32 @@ notebooks/ScratchPad/._TFIDF_VMD_Hyptertune.ipynb
 ._TFVMD.py
 notebooks/.ipynb_checkpoints/Untitled-checkpoint.ipynb
 ._requirements.txt
+._.gitignore
+data/._IMDB.csv
+data/Result_Output/._Hyper.csv
+data/Result_Output/._Hyper2.csv
+data/Result_Output/._Hyper_alpha-1to100.csv
+data/Result_Output/._Hyper_alpha-1to20.csv
+data/Result_Output/._Hyper_Mode.csv
+data/Result_Output/._nonVMD_Data_FastText_1.csv
+data/Result_Output/._nonVMD_Data_TFIDF.csv
+data/Result_Output/._Test_nonVMD_FastText.csv
+data/Result_Output/._Test_nonVMD_TFIDF.csv
+data/Result_Output/._Test_VMD_FastText.csv
+data/Result_Output/._Test_VMD_TFIDF 2.csv
+data/Result_Output/._Test_VMD_TFIDF.csv
+data/Result_Output/._VMDed_Data_FastText.csv
+data/Result_Output/Hyper.csv
+data/Result_Output/Hyper2.csv
+data/Result_Output/Hyper_alpha-1to100.csv
+data/Result_Output/Hyper_alpha-1to20.csv
+data/Result_Output/Hyper_Mode.csv
+data/Result_Output/nonVMD_Data_FastText_1.csv
+data/Result_Output/nonVMD_Data_TFIDF.csv
+data/Result_Output/Test_nonVMD_FastText.csv
+data/Result_Output/Test_nonVMD_TFIDF.csv
+data/Result_Output/Test_VMD_FastText.csv
+data/Result_Output/Test_VMD_TFIDF 2.csv
+data/Result_Output/Test_VMD_TFIDF.csv
+data/Result_Output/VMDed_Data_FastText.csv
+data/Result_Output/VMDed_Data_TFIDF.csv
