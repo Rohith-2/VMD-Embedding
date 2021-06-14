@@ -30,7 +30,7 @@ Rohith Ramakrishnan
   | 1        | 0.82      | 0.80   | 0.81     | 875     |
   | Accuracy |           |        | 0.81     | 1750    |   
 
-[**train.csv**](https://www.kaggle.com/c/nlp-getting-started) :  
+[**Disaster Tweets**](https://www.kaggle.com/c/nlp-getting-started) :  
 Natural Language Processing with Disaster Tweets  -  
 *This dataset was created by the company figure-eight and originally shared on their ‘Data For Everyone’ website [here](https://www.figure-eight.com/data-for-everyone/)*
 
