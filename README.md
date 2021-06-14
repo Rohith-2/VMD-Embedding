@@ -14,13 +14,13 @@ Rohith Ramakrishnan
   This is a dataset for binary sentiment classification containing substantially more data than previous benchmark datasets. We provide a set of 25,000 highly polar movie reviews    for training and 25,000 for testing.   
   *Andrew L. Maas, Raymond E. Daly, Peter T. Pham, Dan Huang, Andrew Y. Ng, and Christopher Potts. (2011). Learning Word Vectors for Sentiment Analysis. The 49th Annual Meeting of   the Association for Computational Linguistics (ACL 2011)* 
 
- > TF-IDF_VMD - Alpha : 2 & K : 3  
+ > TF-IDF_VMD - Alpha : 6 & K : 2  
  
   |          | precision | recall | f1-score | support |
   |----------|-----------|--------|----------|---------|
-  | 0        | 0.86      | 0.77   | 0.81     | 875     |
-  | 1        | 0.79      | 0.88   | 0.83     | 875     |
-  | Accuracy |           |        | 0.82     | 1750    |  
+  | 0        | 0.86      | 0.86   | 0.85     | 862     |
+  | 1        | 0.86      | 0.85   | 0.86     | 888     |
+  | Accuracy |           |        | 0.85     | 1750    |  
   
   > fastText : cc.en.300.bin   
   
