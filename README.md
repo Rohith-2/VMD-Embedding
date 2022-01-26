@@ -1,5 +1,11 @@
 # VMD-Embedding  
-Application of VMD in NLP via TF-IDF for better semantic relationships.  
+Application of VMD in NLP via TF-IDF for better semantic relationships.
+
+## Publication :
+### Conference:
+[Proceedings of the 35th Pacific Asia Conference on Language, Information and Computation](http://corpus.shisu.edu.cn/corpusen/PACLIC35/list.htm)
+### Paper:
+https://aclanthology.org/2021.paclic-1.25/  
 
 ## Authors :  
 Rohith Ramakrishnan  
